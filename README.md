@@ -1,2 +1,2 @@
 # FASHION-MNIST-
-Predicts clothings of fashion mnist dataset
+Predicts clothings using fashion mnist dataset
